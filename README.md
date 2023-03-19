@@ -4,7 +4,7 @@
 - 📫 How to reach me liggieri.me
 
 
-[![](https://visitcount.itsvg.in/api?id=my0nese&label=Profile%20Views&icon=7&pretty=false)](https://visitcount.itsvg.in)
+[![Visit Count](https://visitcount.itsvg.in/api?id=my0nese&label=Profile%20Views&icon=7&pretty=false)](https://visitcount.itsvg.in)
 
 <!---
 my0nese/my0nese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
