@@ -56,7 +56,7 @@
 
 
 
-[![My0nese GitHub stats](https://github-readme-stats.vercel.app/api?username=my0nese)](https://github.com/anuraghazra/github-readme-stats)
+[![My0nese GitHub stats](https://github-readme-stats.vercel.app/api?username=my0nese&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Visit Count](https://visitcount.itsvg.in/api?id=my0nese&label=Profile%20Views&icon=7&pretty=false)](https://visitcount.itsvg.in)
